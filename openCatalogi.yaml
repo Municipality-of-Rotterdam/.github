@@ -1,13 +1,20 @@
 contact:
   email: commongroundBCO@rotterdam.nl
+  phone: ''
 description: Gemeente Rotterdam
 logo: https://avatars.githubusercontent.com/u/93453128?v=4
 name: Municipality-of-Rotterdam
 nl: {}
 openCatalogiYmlVersion: '0.2'
+publiccodeYmlVersion: '0.2'
 softwareOwned:
 - https://github.com/OpenCatalogi
 - https://github.com/Municipality-of-Rotterdam/Digitale-Balie
+softwareSupported:
+- software: https://github.com/Municipality-of-Rotterdam/Digitale-Balie
+  type: community
+- software: https://github.com/Municipality-of-Rotterdam/.github
+  type: community
 softwareUsed:
 - https://github.com/OpenCatalogi
 - https://github.com/Municipality-of-Rotterdam/Digitale-Balie
